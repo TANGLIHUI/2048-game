@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1526642802 source:c:\users\tang\desktop\game\2048.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<iomanip>
+	"matrix.h"
+
+1526641012 c:\users\tang\desktop\game\include\matrix.h
+	<vector>
+	"RandomSet.h"
+
+1526638872 c:\users\tang\desktop\game\include\randomset.h
+	<vector>
+	<ctime>
+	<unordered_map>
+
+1526642559 source:c:\users\tang\desktop\game\src\matrix.cpp
+	<iomanip>
+	<algorithm>
+	<iostream>
+	"matrix.h"
+
+1526638660 source:c:\users\tang\desktop\game\src\randomset.cpp
+	"RandomSet.h"
+
+1526642802 source:d:\book\算法\data structure\2048-game\game\2048.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<iomanip>
+	"matrix.h"
+
+1526641012 d:\book\算法\data structure\2048-game\game\include\matrix.h
+	<vector>
+	"RandomSet.h"
+
+1526638872 d:\book\算法\data structure\2048-game\game\include\randomset.h
+	<vector>
+	<ctime>
+	<unordered_map>
+
+1526638660 source:d:\book\算法\data structure\2048-game\game\src\randomset.cpp
+	"RandomSet.h"
+
